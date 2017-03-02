@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+i write and dad and do other stuff.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+i don't like capital letters.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[JeffHall@protonmail.com](mailto:jeffhall@protonmail.com)
