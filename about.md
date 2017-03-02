@@ -11,4 +11,4 @@ i don't like capital letters.
 
 ### contact me
 
-[JeffHall@protonmail.com](mailto:jeffhall@protonmail.com)
+[jeffhall@protonmail.com](mailto:jeffhall@protonmail.com)
