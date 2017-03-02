@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 published: true
 ---
@@ -9,6 +9,6 @@ i write and dad and do other stuff.
 
 i don't like capital letters.
 
-### Contact me
+### contact me
 
 [JeffHall@protonmail.com](mailto:jeffhall@protonmail.com)
